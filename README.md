@@ -1,0 +1,1 @@
+this is just a learning project about java and spring boot. it includes simple API of courses and topics. 
